@@ -1,13 +1,49 @@
 apiVersion: v1
 entries:
+  loyaltylevelchart:
+  - apiVersion: v1
+    created: 2018-09-12T17:35:33.867988678+02:00
+    description: A Helm chart for Kubernetes
+    digest: 1aeff70adf435d5eca10b25398a480d553eb893542013baeaf0e4e69d7adc215
+    name: loyaltylevelchart
+    urls:
+    - https://fbriard.github.io/mycharts/loyaltylevelchart-0.1.0.tgz
+    version: 0.1.0
   notificationchart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-09-12T17:22:34.586689662+02:00
+    created: 2018-09-12T17:35:33.868696337+02:00
     description: A Helm chart for Kubernetes
     digest: a13e4579e907c7b4c0080a956b775e8f1c9f80dbe3ce2d55a4cdb64082d94ae7
     name: notificationchart
     urls:
     - https://fbriard.github.io/mycharts/notificationchart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-09-12T17:22:34.585931722+02:00
+  portfoliochart:
+  - apiVersion: v1
+    created: 2018-09-12T17:35:33.87003367+02:00
+    description: A Helm chart for Kubernetes
+    digest: 1c623c2a0f4b5bac42c54dd0dbacd5783181c966180db6103f16e31a0e9f5a5f
+    name: portfoliochart
+    urls:
+    - https://fbriard.github.io/mycharts/portfoliochart-0.1.0.tgz
+    version: 0.1.0
+  stockquotechart:
+  - apiVersion: v1
+    created: 2018-09-12T17:35:33.870788347+02:00
+    description: A Helm chart for Kubernetes
+    digest: 863e41045ba185c19857e75054acdcd07094a421355912f78137fb98de080ee5
+    name: stockquotechart
+    urls:
+    - https://fbriard.github.io/mycharts/stockquotechart-0.1.0.tgz
+    version: 0.1.0
+  traderchart:
+  - apiVersion: v1
+    created: 2018-09-12T17:35:33.872070465+02:00
+    description: A Helm chart for Kubernetes
+    digest: 2688fdd14eb4dc97ac53312b3767243e6af9ac7945459d217d7b6826bb065465
+    name: traderchart
+    urls:
+    - https://fbriard.github.io/mycharts/traderchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-09-12T17:35:33.866798408+02:00
